@@ -1,0 +1,18 @@
+.top-header
+ {
+    font-family: 'Roboto', sans-serif;
+     width:100%;
+     height:auto;
+     padding: 1px 0px;
+     background-color:#3747e5;
+     color: #ffffff;
+     text-align: left;
+     padding: 20px 0px 20px 20px;
+     min-height: 50px;
+ }
+
+ .top-header h4 
+   {
+       margin: 0 auto;
+   }
+   
